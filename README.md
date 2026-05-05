@@ -1,6 +1,7 @@
 # 🚗 Estoque de Concessionária — Back-end
 
 API REST desenvolvida com **Spring Boot** para gerenciamento de carros, marcas e acessórios, com autenticação via JWT e controle de acesso por perfil.
+> **Front-end:** [carros-front](https://github.com/rizzoka/Estoque-de-Concessionaria)
 
 ## 🛠️ Tecnologias
 
